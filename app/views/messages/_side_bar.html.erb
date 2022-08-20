@@ -1,5 +1,5 @@
 <div class="side-bar-header">
-  <a href="#" class="user-name">kisho</a>
+  <%= link_to current_user.name, edit_user_path(current_user) %>
   <a href="#" class="create-chat">チャットを作成する</a>
 </div>
 
