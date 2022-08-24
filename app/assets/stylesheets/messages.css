@@ -59,17 +59,17 @@
   justify-content: space-between;
 }
 
-.group-name p {
+.header-title {
   font-size: 24px;
   color: #333;
   padding-top: 36px;
 }
 
-.quit-button{
+.quit-button {
   margin-top: 40px;
 }
 
-.quit-chat a {
+.right-header a {
   color: darkred;
   border: 1px solid darkred;
   padding: 20px;
